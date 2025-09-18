@@ -1,1 +1,2 @@
-SAMPLE 2 // to practice git commands
+SAMPLE 2 // to practice git command
+
