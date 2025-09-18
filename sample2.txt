@@ -1,2 +1,3 @@
 SAMPLE 2 // to practice git command
-
+its getting modified to practice pull command in git
+blah blah blah !!!
